@@ -1,0 +1,14 @@
+.wfhBlock {
+    height: 100px;
+    background-color: #7a687a;
+}
+.wfhContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.title{
+    background-color: #cabdca;
+}
